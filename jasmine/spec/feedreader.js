@@ -101,8 +101,8 @@ $(function() {
                 expect(allFeeds[i].name).toEqual(jasmine.any(String)); // Extra: check is a string
             });
         }
-        for (var i = 0, len = allFeeds.length; i < len; i++) {
-            checkDefinedName(i)
+        for (var m = 0, l = allFeeds.length; m < l; m++) {
+            checkDefinedName(m);
         }
     });
 
