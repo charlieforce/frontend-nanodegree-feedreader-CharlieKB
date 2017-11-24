@@ -2,7 +2,7 @@
 Tested with Javascript using Jasmine.
 
 # Running the App
-https://jcjodie.github.io/udacity-feedreader-project/
+https://github.com/charlieforce/frontend-nanodegree-feedreader-CharlieKB
 or
 -Download the Feedreader project files by following the instructions in the section below.
 -Open the index.html file in your browser.
